@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baeliyn" alt="baeliyn" /></a> </p>
 
-- 🗿 I’m currently working on **React**
+- 🗿 I’m currently working on **Fullstack Development (MERN)**
 
 - 🦇 I’m currently learning **Improving Node.js and React Skills**
 
-- 🐺 All of my projects are available at [My local, I upload them on github as i rearrange them](My local, I upload them on github as i rearrange them)
+- 🐺 All of my projects are available at My local, I upload them on github as i rearrange them.
 
 <h3 align="left">My page:</h3>
 <p align="left">
