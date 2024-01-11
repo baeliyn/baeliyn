@@ -1,5 +1,5 @@
 [![MasterHead](https://www.hollywoodreporter.com/wp-content/uploads/2017/01/gits_steelbook_flat5b15d_copy-h_2017.jpg?w=1296)](https://berak.glitch.me/)
-<h1 align="center">Baeliyn</h1>
+<h1 align="center">Bera</h1>
 <h3 align="center">Eager</h3>
 
 <div><img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXkzYmg5cHA2ejFjcnlma2J3ZnlsbGl2NndwaHMwYWRuZXh4bm8zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3SYKzhmod1IY/giphy.gif"> <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpheXI3bnV3ZzBzM3djN2s4ZXl3aW8zOGYyajVicHlxemZzOXBjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMwdfGSyeYjUKY6vjf/giphy.gif"></div>
