@@ -17,7 +17,7 @@
 
 <h3 align="left">My page:</h3>
 <p align="left">
-<a href="https://berak.glitch.me/" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_g0oyq/styles/communityIcon_zlitioraljm81.png" alt="bera kurt" height="30" width="30" /></a>
+<a href="https://berak.glitch.me/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Batman_Logo.svg/640px-Batman_Logo.svg.png" alt="bera kurt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
